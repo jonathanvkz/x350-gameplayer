@@ -26,6 +26,7 @@ Eventually I decided to flash a different OS version, and bricked my console. I 
 *A fun project, but I've moved on to others more important.*
 
 *[Everything I found, translated, downloaded, and used in this project](https://mega.nz/folder/YZRTUYQb#6Ua8YrtwEyisvr30QX4LYw)*
+<br>
 *WARNING! UNTESTED RUSSIAN AND CHINESE EXECUTABLES - MAY CONTAIN MALWARE*
 
 <br>
