@@ -28,6 +28,8 @@ Eventually I decided to flash a different OS version, and bricked my console. I 
 *[Everything I found, translated, downloaded, and used in this project](https://mega.nz/folder/YZRTUYQb#6Ua8YrtwEyisvr30QX4LYw)*
 <br>
 *WARNING! UNTESTED RUSSIAN AND CHINESE EXECUTABLES - MAY CONTAIN MALWARE*
+<br>
+*Some notes may also be in German and Denglisch*
 
 <br>
 
