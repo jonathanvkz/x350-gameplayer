@@ -15,7 +15,7 @@
 
 ### **The Conclusion**
 
-This cheap game console uses the same recycled x32 linus based OS as many diverse chinese products. Anything from radios to game consoles to car accesories use this same OS, with different apps.
+This cheap game console uses the same recycled x32 linux based OS as many diverse chinese products. Anything from radios to game consoles to car accesories use this same OS, with different apps.
 
 The compilation process is still not completely understood, and thus making custom apps for this OS is yet to be done by anyone (As far as I can tell). Any error in the applications code immediantly reboots the OS.
 
